@@ -12,7 +12,7 @@ Point::Point() {
 	P=new int[2];
 	if(P!=NULL){
 		P[0]=0;
-		P[1]=1;
+		P[1]=0;
 	}
 	color=DefaultColor;
 }
